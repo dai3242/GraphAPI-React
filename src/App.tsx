@@ -7,8 +7,6 @@ import { NavigationBar } from "./components/NavigationBar";
 import { Users } from "./components/Users";
 import { Groups } from "./components/Groups";
 import { Sites } from "./components/Sites";
-import { ListFormat } from "typescript";
-import { Lists } from "./components/Lists";
 
 function App() {
   return (

@@ -1,5 +1,3 @@
-import { graphConfig } from "./authConfig";
-
 export async function callGraph(accessToken: string, url: string, method: string) {
   const headers = new Headers();
   const bearer = `Bearer ${accessToken}`;
